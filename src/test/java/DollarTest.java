@@ -23,7 +23,4 @@ public class DollarTest {
 		// When
 		ten.dividedBy(0); 
 	}
-		
-		
-
 }
