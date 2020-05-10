@@ -1,5 +1,5 @@
-# assignment3
-This is for SOFTENG-754 Assignment 3
+# Code Review Tool
+This repo holds the code review tool written in Java that checks for linting issues directly from GitHub Pull Requests
 
 [![Build Status](https://travis-ci.com/jasonbakthakumar/assignment3.svg?branch=master)](https://travis-ci.com/jasonbakthakumar/assignment3)
 
